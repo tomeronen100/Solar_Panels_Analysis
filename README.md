@@ -17,18 +17,18 @@ To compile and run the project, follow these steps:
 
 1. **Clone the repository:**
     ```
-    git clone https://github.com/Yarin-Shohat/Solar-Panels-Analysis-Project.git
+    git clone https://github.com/tomeronen100/Solar_Panels_Analysis.git
     ```
 2. **Navigate to the project directory:**
     ```
-    cd Solar-Panels-Analysis-Project
+    cd Solar_Panels_Analysis
     ```
 3. **Add Data:**  
     Download the Data and Add the `data/` folder into to the folder `Solar-Panels-Analysis-Project/`  
    
-   so that all the data will be in  `Solar-Panels-Analysis-Project/data/`
+   so that all the data will be in  `Solar_Panels_Analysis/data/`
 5. **Run R Script:**  
-    Run the R Markdown File in `Solar-Panels-Analysis-Project/code/Final-Project.Rmd`
+    Run the R Markdown File in `Solar_Panels_Analysis/code/Final-Project.Rmd`
 
 ### Key Features
 
